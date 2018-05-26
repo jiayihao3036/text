@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	
+}
+body{
+	color: rgb(242,242,242);
+}
+.box{
+	width: 1585px;
+	background-color:white;
+	margin: 0 auto;
+	
+}
+.bodybox{
+	margin-left: 20px;
+	width: 290px;
+	height: 520px;
+	background-color: white;
+	float: left;
+	
+}
+.bodybox img{
+	width: 290px;
+	height: 428px;
+	display: block;
+	background-color: white;
+}
+.bodybox p span{
+	
+	color: rgb(228,0,70);
+	font-size: 16px;
+}
+.bodybox p{
+	margin-left: 5px;
+	margin-top: 15px;
+}
+.bodybox button{
+	background-color:rgb(228,0,70);
+	border: none;
+	border-radius:0px 5px ;
+	width: 40px;
+	height: 20px;
+	color: white;
+}
+.bodybox .txt{
+	margin-top: 15px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	color: #808080;
+	
+}
+.bodybox .explain{
+	color: gray;
+	font-size: 16px;
+}
